@@ -28,4 +28,3 @@ while True:
         print("Giriş Hakkınız Bitti")
         break
 
-print("işlemler tamam")
