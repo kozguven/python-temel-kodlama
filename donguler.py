@@ -27,3 +27,5 @@ while True:
     if (giriş_hakkı == 0):
         print("Giriş Hakkınız Bitti")
         break
+
+print("işlemler tamam")
